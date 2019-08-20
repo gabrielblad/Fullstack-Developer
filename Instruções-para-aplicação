@@ -1,0 +1,11 @@
+1 - Abrir o console(bash/cmd) apontando para a pasta <spring-angular-ecommerce\src\main\frontend> e executar 
+o comando <npm install @angular/cli>.
+Após a instalação do angular/cli, executar o comando <ng serve> na mesma pasta.
+Lembrando que é necessário que o node.js esteja instalado na máquina.
+
+2 - Com o Spring Tool Suite, Eclipse Spring Tool, ou outra IDE configurada para o Spring, Executar como aplicação Spring o Arquivo
+<spring-angular-ecommerce\src\main\java\com\br\maxima\EcommerceApplication.java>
+
+3 - Abrir no Navegador o endereço http://localhost:8080/
+
+
